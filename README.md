@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prangon Talukdar
 
-🎓 I'm a Computer Science senior at Wayne State University (Graduating May 2025) with a **4.0 GPA**, multiple Dean’s List honors, and experience across backend, frontend, and full-stack development.
+🎓 I completed my Bachelor of Science in Computer Science from Wayne State University in May 2025, graduating in the top 5% of my class with Summa Cum Laude honors and experience across backend, frontend, and full-stack development.
 
 💼 I'm actively seeking full-time **Software Engineering roles** where I can build scalable systems and solve real-world problems.
 
