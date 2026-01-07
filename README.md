@@ -43,6 +43,15 @@ I’ve solved **800+ competitive programming problems** and placed 3rd at the 20
 
 ## 💼 Experience:
 
+**Application Support Engineer – Wayne County Government** (Aug 2025 – Present)  
+- Implemented and monitored CI/CD pipelines, patching cycles, and SaaS releases using Python, Bash, and Terraform.  
+- Built automation for user access provisioning and login issue resolution, improving security and reducing incidents.  
+- Developed APIs and Oracle Integration Cloud (OIC) integrations to support secure cross-system data exchange.
+
+**Software Developer Co-op – Partify** (Sep 2024 – Aug 2025)  
+- Developed custom storefront features using JavaScript, CSS, and Liquid on the Shopify platform.  
+- Used Shopify CLI to build, test, and deploy updates while improving performance and user experience.
+
 **Software Engineer Intern – Rocket Mortgage** (Summer 2024)  
 - Developed secure REST APIs for authentication and profile management.  
 - Optimized organization search, reducing lookup time by 80%.  
@@ -50,11 +59,12 @@ I’ve solved **800+ competitive programming problems** and placed 3rd at the 20
 
 **Software Engineer Intern – ETAS Inc.** (Spring 2023)  
 - Built RESTful APIs and frontends for internal developer tools.  
-- Dockerized full apps and maintained unit testing with Jest.
+- Developed Node.js services and supported testing and deployments for cloud-based systems.
 
 **Rotational Intern – Wayne State University C&IT** (Fall 2022 – Winter 2023)  
 - Integrated new features into DegreeWorks for credit evaluation.  
 - Updated PostgreSQL schemas and web components.
+
 
 ---
 
