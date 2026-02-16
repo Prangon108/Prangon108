@@ -1,90 +1,120 @@
 # 👋 Hi, I'm Prangon Talukdar
 
-🎓 I completed my Bachelor of Science in Computer Science from Wayne State University in May 2025, graduating in the top 5% of my class with Summa Cum Laude honors and experience across backend, frontend, and full-stack development.
-
-💼 I'm actively seeking full-time **Software Engineering roles** where I can build scalable systems and solve real-world problems.
-
-🚀 I'm passionate about clean architecture, backend APIs, and optimizing user experiences.  
-I've interned at **Rocket Mortgage**, **ETAS Inc**, and **Wayne State C&IT**, where I built RESTful APIs, integrated customer features, and worked across Docker, React, and cloud technologies.
-
-🧠 I'm currently learning and working with:
-React · Django · PostgreSQL · AWS · Docker · TypeScript · MongoDB
-
-💡 Ask me about:
-Full-stack development · Hackathons · Cloud tools · DSA · Competitive programming
-
-📫 Reach me at:  
-📧 ptaluk108@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prangon-talukdar)  
-💻 [Portfolio](https://67a1119a66e1ef4129f40ad3--marvelous-cheesecake-4bbf38.netlify.app/)
-
-🌟 Fun fact:  
-I’ve solved **800+ competitive programming problems** and placed 3rd at the 2023 ICPC ECNA Regionals.
+🎓 **B.S. in Computer Science – Wayne State University (May 2025)**  
+🏅 Summa Cum Laude | 4.0 GPA | Top 5% of Class  
+🥉 3rd Place – 2023 ICPC ECNA Regional  
+🔢 Solved 800+ Competitive Programming Problems  
 
 ---
 
-## 🛠️ Skills:
+## 💼 Software Engineer | Backend-Focused | Full-Stack Capable
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+I build scalable backend systems, clean REST APIs, and performance-driven applications.  
+I enjoy solving real-world problems through system design, automation, and optimization.
+
+💡 Currently seeking full-time **Software Engineering roles**.
 
 ---
 
-## 💼 Experience:
+## 🚀 Tech Stack
 
-**Application Support Engineer – Wayne County Government** (Aug 2025 – Present)  
-- Implemented and monitored CI/CD pipelines, patching cycles, and SaaS releases using Python, Bash, and Terraform.  
-- Built automation for user access provisioning and login issue resolution, improving security and reducing incidents.  
-- Developed APIs and Oracle Integration Cloud (OIC) integrations to support secure cross-system data exchange.
+**Languages:**  
+Java (Primary) · Python · JavaScript · TypeScript · SQL · Bash · C# · C++
 
-**Software Developer Co-op – Partify** (Sep 2024 – Aug 2025)  
-- Developed custom storefront features using JavaScript, CSS, and Liquid on the Shopify platform.  
-- Used Shopify CLI to build, test, and deploy updates while improving performance and user experience.
+**Backend & APIs:**  
+Spring Boot · Django · Node.js · Express · ASP.NET · REST APIs · Microservices · Authentication Flows
 
-**Software Engineer Intern – Rocket Mortgage** (Summer 2024)  
-- Developed secure REST APIs for authentication and profile management.  
-- Optimized organization search, reducing lookup time by 80%.  
-- Built user issue reporting flow that improved customer satisfaction by 60%+.
+**Frontend:**  
+React · Tailwind CSS · Blazor · Redux
 
-**Software Engineer Intern – ETAS Inc.** (Spring 2023)  
-- Built RESTful APIs and frontends for internal developer tools.  
-- Developed Node.js services and supported testing and deployments for cloud-based systems.
+**Cloud & DevOps:**  
+AWS · OCI · Azure · Docker · Kubernetes · Terraform · CI/CD Pipelines
 
-**Rotational Intern – Wayne State University C&IT** (Fall 2022 – Winter 2023)  
-- Integrated new features into DegreeWorks for credit evaluation.  
-- Updated PostgreSQL schemas and web components.
-
+**Databases:**  
+PostgreSQL · MySQL · SQL Server · MongoDB · Firebase
 
 ---
 
-## 🧪 Highlight Project:
+## 💼 Professional Experience
 
-**GroceryPro – Smart Grocery Price Comparison App**  
-A full-stack platform to compare prices across stores with travel cost optimization.  
-- Frontend: React + Tailwind  
-- Backend: Django + PostgreSQL + Google Maps  
-- Used Dijkstra’s algorithm for optimal routing  
-- Saved users 25–35% and reduced comparison time by 70%
+### 🏛 Application Support Engineer  
+**Wayne County Government** | Aug 2025 – Present  
+- Automated CI/CD pipelines, SaaS releases, and patching cycles using Python, Bash, Terraform  
+- Built a role-assignment automation system for secure access provisioning  
+- Developed REST APIs and Oracle Integration Cloud (OIC) integrations  
+- Reduced login-related incidents through automation and monitoring  
+
+### 🛍 Software Developer Co-op  
+**Partify** | Sep 2024 – Aug 2025  
+- Built custom Shopify storefront features using JavaScript and Liquid  
+- Deployed solutions using Shopify CLI  
+- Improved UI performance and user experience  
+
+### 🏦 Software Engineer Intern  
+**Rocket Mortgage** | Summer 2024  
+- Built secure REST APIs for authentication and profile management  
+- Optimized organization search performance  
+- Worked with Blazor, C#, SQL, and Kafka  
+
+### 🚗 Software Engineer Intern  
+**ETAS Inc.** | Spring 2023  
+- Developed Node.js (Express) backend services  
+- Assisted AWS test deployments via Jenkins  
+- Built CAN signal transmission system over IP  
+
+### 🎓 Rotational Intern  
+**Wayne State University C&IT** | Fall 2022 – Winter 2023  
+- Integrated new features into DegreeWorks for credit evaluation  
+- Updated PostgreSQL schemas and web components  
 
 ---
 
-## 🏆 Achievements:
+## 🧪 Highlight Projects
+
+### 🛒 GroceryPro – Smart Grocery Price Comparison App
+Full-stack platform comparing grocery prices with travel cost optimization.
+
+**Tech:** React · Django · PostgreSQL · Google Maps API  
+- Implemented Dijkstra’s algorithm for optimal routing  
+- Reduced comparison time by 70%  
+- Saved users 25–35% on average  
+
+---
+
+### 📅 SmartScheduler – Automated Meeting Conflict Resolver
+**Java · Spring Boot**
+- Built scheduling engine using interval trees  
+- Designed REST APIs for calendar integrations  
+- Implemented priority queues to rank optimal time slots  
+- 450+ active users  
+
+---
+
+### 🤖 AI Study Companion
+AI-powered study platform with smart flashcard and quiz generation.  
+- React + Redux frontend  
+- Firebase backend  
+- GPT-powered content generation  
+- Voice input integration  
+
+---
+
+## 🏆 Achievements
 
 - 🥉 3rd Place – 2023 ICPC East Central North America Regional  
-- 🔢 Solved 800+ competitive programming problems  
-- 🧠 Participated in 140+ contests (on-site and online)
+- 🧠 800+ Competitive Programming Problems Solved  
+- 🏅 Dean’s List – 9 Consecutive Semesters  
+- 🎓 Graduated Summa Cum Laude  
 
 ---
 
-📌 _"Simplicity is the soul of efficiency."_ – Austin Freeman
+## 📫 Connect With Me
+
+📧 Email: ptaluk108@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/prangon-talukdar  
+💻 GitHub: https://github.com/Prangon108  
+🌐 Portfolio: https://your-portfolio-link  
+
+---
+
+> "Simplicity is the soul of efficiency." – Austin Freeman
