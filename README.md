@@ -113,7 +113,6 @@ AI-powered study platform with smart flashcard and quiz generation.
 📧 Email: ptaluk108@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/prangon-talukdar  
 💻 GitHub: https://github.com/Prangon108  
-🌐 Portfolio: https://your-portfolio-link  
 
 ---
 
